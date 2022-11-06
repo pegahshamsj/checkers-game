@@ -1,3 +1,4 @@
 # checker-game
-with minmax algorithm
+With minmax algorithm
+</br>
 Training a checker game with atrificial intelligence
